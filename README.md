@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>I automate workflows and build fast, scalable applications for businesses.</strong><br />
-  Passionate about clean code, AI tools, and creating delightful user experiences.
+  <strong>I build systems that work for you.</strong><br />
+  Not the other way around.
 </p>
 
 <p align="center">
