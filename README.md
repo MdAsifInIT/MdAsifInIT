@@ -2,8 +2,6 @@
   <img src="assets/space-banner.svg" alt="Md Asif animated space-themed GitHub profile banner" width="100%" />
 </p>
 
-<h1 align="center">Md Asif</h1>
-
 <p align="center">
   <strong>I automate workflows and build fast, scalable applications for businesses.</strong><br />
   Passionate about clean code, AI tools, and creating delightful user experiences.
