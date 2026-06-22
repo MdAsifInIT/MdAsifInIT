@@ -65,23 +65,32 @@
 
 ## Pinned
 
-<p align="center">
-  <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/MdAsifInIT/sanity-gravity">
-    <img alt="sanity-gravity" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=sanity-gravity&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MdAsifInIT/EZ-PS-Automations">
-    <img alt="EZ-PS-Automations" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=EZ-PS-Automations&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/MdAsifInIT/pokeswitch">
-    <img alt="pokeswitch" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/MdAsifInIT/NotionLM">
+        <img alt="NotionLM" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MdAsifInIT/sanity-gravity">
+        <img alt="sanity-gravity" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=sanity-gravity&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/MdAsifInIT/EZ-PS-Automations">
+        <img alt="EZ-PS-Automations" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=EZ-PS-Automations&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/MdAsifInIT/pokeswitch">
+        <img alt="pokeswitch" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Repositories In Orbit
 
