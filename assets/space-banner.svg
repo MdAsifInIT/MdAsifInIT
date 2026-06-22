@@ -1,0 +1,76 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Md Asif space profile banner</title>
+  <desc id="desc">Animated starfield banner with an original space crew theme, a spaceship window, and mission control text.</desc>
+  <style>
+    .star { animation: twinkle 2.8s ease-in-out infinite; transform-origin: center; }
+    .star:nth-of-type(2n) { animation-delay: .7s; }
+    .star:nth-of-type(3n) { animation-delay: 1.4s; }
+    .float { animation: float 5s ease-in-out infinite; }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    .dash { animation: drift 16s linear infinite; }
+    @keyframes twinkle { 0%, 100% { opacity: .28; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.15); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    @keyframes pulse { 0%, 100% { opacity: .65; } 50% { opacity: 1; } }
+    @keyframes drift { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -180; } }
+  </style>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D1F"/>
+      <stop offset=".48" stop-color="#101820"/>
+      <stop offset="1" stop-color="#1B2444"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1035 66) rotate(133) scale(230)">
+      <stop stop-color="#31C4B3"/>
+      <stop offset=".55" stop-color="#36558F"/>
+      <stop offset="1" stop-color="#101820" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="visor" x1="170" y1="124" x2="326" y2="226" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B9F8FF"/>
+      <stop offset=".5" stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#space)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="32.5" stroke="#31C4B3" stroke-opacity=".34" stroke-width="3"/>
+  <circle cx="1035" cy="66" r="236" fill="url(#planet)" opacity=".72"/>
+  <circle cx="970" cy="292" r="144" fill="#FF6F61" opacity=".1"/>
+  <circle cx="206" cy="282" r="180" fill="#31C4B3" opacity=".08"/>
+
+  <g class="star" fill="#FFFFFF">
+    <circle cx="91" cy="70" r="2.4"/><circle cx="184" cy="45" r="1.8"/><circle cx="303" cy="78" r="2.2"/>
+    <circle cx="458" cy="45" r="1.7"/><circle cx="596" cy="77" r="2.1"/><circle cx="718" cy="42" r="1.8"/>
+    <circle cx="846" cy="87" r="2.4"/><circle cx="1086" cy="168" r="1.8"/><circle cx="1110" cy="289" r="2.4"/>
+    <circle cx="681" cy="295" r="1.9"/><circle cx="392" cy="307" r="1.9"/><circle cx="73" cy="239" r="2.1"/>
+  </g>
+
+  <path class="dash" d="M84 312C222 338 346 304 482 325C640 349 760 310 910 324C1022 334 1100 310 1148 292" stroke="#F6C85F" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 22" opacity=".55"/>
+
+  <g class="float">
+    <path d="M122 174C122 112 165 75 225 75H300C358 75 402 115 402 174V221C402 284 358 318 300 318H225C165 318 122 283 122 221V174Z" fill="#FF6F61"/>
+    <path d="M151 170C151 127 180 102 222 102H291C333 102 372 131 372 174V214C372 257 335 291 292 291H225C181 291 151 260 151 216V170Z" fill="#CF4F45"/>
+    <rect x="205" y="128" width="142" height="75" rx="37.5" fill="#101820"/>
+    <rect x="216" y="137" width="118" height="53" rx="26.5" fill="url(#visor)"/>
+    <path d="M337 219H404C426 219 444 237 444 259V287H337V219Z" fill="#CF4F45"/>
+    <path d="M337 236H399C411 236 421 246 421 258V266H337V236Z" fill="#101820" opacity=".32"/>
+    <path d="M214 319H289V341H214V319Z" fill="#8F3638"/>
+    <path d="M164 244C184 276 217 292 256 292H297" stroke="#FFFFFF" stroke-opacity=".18" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <g class="pulse">
+    <rect x="521" y="82" width="544" height="196" rx="28" fill="#0D1327" stroke="#31C4B3" stroke-opacity=".46" stroke-width="2"/>
+    <text x="558" y="139" fill="#31C4B3" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700">MISSION CONTROL</text>
+    <text x="558" y="198" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Md Asif</text>
+    <text x="560" y="243" fill="#D9E7FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600">building clean web experiences</text>
+    <rect x="868" y="114" width="146" height="18" rx="9" fill="#FF6F61"/>
+    <rect x="868" y="151" width="104" height="18" rx="9" fill="#F6C85F"/>
+    <rect x="868" y="188" width="128" height="18" rx="9" fill="#31C4B3"/>
+  </g>
+
+  <g transform="translate(1010 234) rotate(12)">
+    <path d="M0 40C0 16 17 0 41 0H70C94 0 112 17 112 41V67C112 91 94 107 70 107H41C17 107 0 91 0 67V40Z" fill="#F6C85F"/>
+    <rect x="37" y="23" width="63" height="32" rx="16" fill="#101820"/>
+    <rect x="44" y="29" width="48" height="20" rx="10" fill="#B9F8FF"/>
+    <path d="M86 66H123C135 66 145 76 145 88V104H86V66Z" fill="#D7A83E"/>
+  </g>
+</svg>
