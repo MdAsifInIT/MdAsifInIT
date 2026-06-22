@@ -37,27 +37,28 @@
 ## Command Center
 
 <p align="center">
-  <strong>Github State</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Skill Loadout</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Language Radar</strong>
+  <strong>Github State</strong><br />
+  <img
+    alt="Md Asif GitHub stats"
+    width="460"
+    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
+  />
 </p>
 
 <p align="center">
-  <img
-    alt="Md Asif GitHub stats"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
-  />
+  <strong>Skill Loadout</strong><br />
   <img
     alt="My skills"
-    height="165"
+    width="360"
     src="https://skillicons.dev/icons?i=python,powershell,cs,ts,js,react,nodejs,docker,github,azure&theme=dark&perline=5"
   />
+</p>
+
+<p align="center">
+  <strong>Language Radar</strong><br />
   <img
     alt="Top languages"
-    height="165"
+    width="420"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
   />
 </p>
