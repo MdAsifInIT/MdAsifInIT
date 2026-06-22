@@ -30,53 +30,40 @@
 - Working across Python, PowerShell, C#, TypeScript, React, cloud, and developer tooling.
 - Keeping this profile in orbit with animated space visuals and repo-backed sections.
 
-<p align="center">
-  <img src="assets/orbit-divider.svg" alt="" width="100%" />
-</p>
-
 ## Command Center
 
-<p align="center">
-  <strong>Github State</strong><br />
-  <img
-    alt="Md Asif GitHub stats"
-    width="460"
-    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Github State</strong><br />
+      <img
+        alt="Md Asif GitHub stats"
+        width="470"
+        src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
+      />
+    </td>
+    <td align="center">
+      <strong>Skill Loadout</strong><br />
+      <img
+        alt="My skills"
+        width="330"
+        src="https://skillicons.dev/icons?i=python,powershell,cs,ts,js,react,nodejs,docker,github,azure&theme=dark&perline=5"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Language Radar</strong><br />
+      <img
+        alt="Top languages"
+        width="420"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Skill Loadout</strong><br />
-  <img
-    alt="My skills"
-    width="360"
-    src="https://skillicons.dev/icons?i=python,powershell,cs,ts,js,react,nodejs,docker,github,azure&theme=dark&perline=5"
-  />
-</p>
-
-<p align="center">
-  <strong>Language Radar</strong><br />
-  <img
-    alt="Top languages"
-    width="420"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
-  />
-</p>
-
-## Commit Orbit
-
-<p align="center">
-  <img
-    alt="Commit Orbit contribution graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MdAsifInIT&custom_title=Commit%20Orbit&bg_color=101820&color=FFFFFF&line=31C4B3&point=F6C85F&area=true&area_color=31C4B3&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img src="assets/orbit-divider.svg" alt="" width="100%" />
-</p>
-
-## Pinned Missions
+## Pinned
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT/NotionLM">
@@ -96,26 +83,18 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/orbit-divider.svg" alt="" width="100%" />
-</p>
-
 ## Repositories In Orbit
 
 | Repository | Signal | Stack |
 | --- | --- | --- |
-| [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion to Google Docs sync pipeline with checkpoints and document upserts. | Python |
-| [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Sandbox guardrails for AI coding agents. | Python |
-| [EZ-PS-Automations](https://github.com/MdAsifInIT/EZ-PS-Automations) | Repeatable Windows and developer workflow automation. | PowerShell |
-| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | C# project in active orbit. | C# |
-| [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript build in progress. | TypeScript |
-| [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper experiment for a focused NotebookLM flow. | C# |
+| [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion to Google Docs pipeline with sync state, retry handling, and document upsert logic. | Python |
+| [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Sandbox guardrails for AI coding agents and developer sanity. | Python |
+| [EZ-PS-Automations](https://github.com/MdAsifInIT/EZ-PS-Automations) | PowerShell automation utilities for repeatable Windows/developer workflows. | PowerShell |
+| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | C# project currently active in the public repo list. | C# |
+| [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript project in progress. | TypeScript |
+| [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper experiment for a focused NotebookLM experience. | C# |
 
-<p align="center">
-  <img src="assets/orbit-divider.svg" alt="" width="100%" />
-</p>
-
-## Captain's Log
+## About Me
 
 ```txt
 location    : Bengaluru, IN
@@ -125,17 +104,13 @@ focus       : clean code, scalable workflows, practical outcomes
 education   : BSc Design & Computing, BITS Pilani
 ```
 
-## Certification Bay
+## Certifications
 
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure AI Engineer Associate
 
-<p align="center">
-  <img src="assets/orbit-divider.svg" alt="" width="100%" />
-</p>
-
-## Transmission Channel
+## Get In Touch
 
 <p>
   <a href="https://github.com/MdAsifInIT">
