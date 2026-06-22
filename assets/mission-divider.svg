@@ -2,15 +2,24 @@
   <title id="title">Space mission divider</title>
   <style>
     .trace { animation: move 12s linear infinite; }
+    .blink { animation: blink 2.2s ease-in-out infinite; }
+    .blink:nth-of-type(2n) { animation-delay: .8s; }
+    .probe { animation: probe 6s ease-in-out infinite; }
     @keyframes move { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -220; } }
+    @keyframes blink { 0%, 100% { opacity: .2; } 50% { opacity: 1; } }
+    @keyframes probe { 0%, 100% { transform: translateX(-10px); } 50% { transform: translateX(20px); } }
   </style>
   <rect width="1200" height="90" rx="24" fill="#101820"/>
   <path class="trace" d="M30 48C155 19 269 77 391 43C542 1 661 82 808 43C944 7 1046 32 1170 19" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9"/>
-  <circle cx="120" cy="28" r="4" fill="#FFFFFF" opacity=".75"/>
-  <circle cx="295" cy="63" r="3" fill="#F6C85F"/>
-  <circle cx="502" cy="25" r="3.5" fill="#FFFFFF" opacity=".7"/>
-  <circle cx="698" cy="66" r="3" fill="#FF6F61"/>
-  <circle cx="915" cy="28" r="4" fill="#FFFFFF" opacity=".7"/>
-  <circle cx="1084" cy="58" r="3" fill="#F6C85F"/>
-  <text x="600" y="55" text-anchor="middle" fill="#D9E7FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">SYSTEMS ONLINE - PROFILE README READY FOR ORBIT</text>
+  <circle class="blink" cx="120" cy="28" r="4" fill="#FFFFFF" opacity=".75"/>
+  <circle class="blink" cx="295" cy="63" r="3" fill="#F6C85F"/>
+  <circle class="blink" cx="502" cy="25" r="3.5" fill="#FFFFFF" opacity=".7"/>
+  <circle class="blink" cx="698" cy="66" r="3" fill="#FF6F61"/>
+  <circle class="blink" cx="915" cy="28" r="4" fill="#FFFFFF" opacity=".7"/>
+  <circle class="blink" cx="1084" cy="58" r="3" fill="#F6C85F"/>
+  <g class="probe">
+    <circle cx="72" cy="48" r="8" fill="#31C4B3"/>
+    <path d="M72 48H34" stroke="#31C4B3" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+  </g>
+  <text x="600" y="55" text-anchor="middle" fill="#D9E7FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">SYSTEMS ONLINE - NOTIONLM PINNED FOR ORBIT</text>
 </svg>
