@@ -3,92 +3,132 @@
 </p>
 
 <h1 align="center">Md Asif</h1>
+<h2 align="center">AI Automation Engineer</h2>
 
 <p align="center">
-  <strong>Developer builder on a practical little space mission.</strong><br />
-  I build clean web experiences, useful tools, and reliable systems that turn ideas into working products.
+  <strong>I automate workflows and build fast, scalable applications for businesses.</strong><br />
+  Passionate about clean code, AI tools, and creating delightful user experiences.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mdasifinit?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Explore-Repositories-31C4B3?style=for-the-badge&labelColor=101820" />
+  <a href="https://mdasifinit.github.io/portfolio/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/View-Portfolio-31C4B3?style=for-the-badge&labelColor=101820" />
   </a>
-  <a href="https://github.com/mdasifinit">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-mdasifinit-FF6F61?style=for-the-badge&labelColor=101820" />
+  <a href="https://github.com/MdAsifInIT?tab=repositories">
+    <img alt="Projects" src="https://img.shields.io/badge/View-Projects-FF6F61?style=for-the-badge&labelColor=101820" />
   </a>
-  <img alt="Mission status" src="https://img.shields.io/badge/Mission-Open%20to%20Build-F6C85F?style=for-the-badge&labelColor=101820" />
+  <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues">
+    <img alt="Contact" src="https://img.shields.io/badge/Contact-Me-F6C85F?style=for-the-badge&labelColor=101820" />
+  </a>
 </p>
 
 <p align="center">
   <img src="assets/mission-divider.svg" alt="" width="100%" />
 </p>
 
-## Current Mission
+## 你好 / こんにちは / Hi there
 
 <img align="right" src="assets/crew-avatar.svg" alt="Original space crew astronaut avatar" width="210" />
 
-- Building full-stack web experiences with a focus on clarity, speed, and usability.
-- Turning repeated work into small tools, scripts, and workflows.
-- Learning in public through experiments, notes, and practical project iterations.
-- Keeping the vibe playful, but the implementation dependable.
+- Building AI-assisted workflow automation for real business problems.
+- Creating fast, responsive applications with clean interfaces.
+- Working across packaging automation, PowerShell, React, cloud, and developer tooling.
+- Keeping this profile in a space-crew orbit: playful visuals, dependable systems.
 
 <br clear="right" />
 
-## Tech Loadout
+## Github State & Skills
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-101820?style=flat-square&logo=html5&logoColor=FF6F61" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-101820?style=flat-square&logo=css3&logoColor=31C4B3" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-101820?style=flat-square&logo=javascript&logoColor=F6C85F" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-101820?style=flat-square&logo=typescript&logoColor=58A6FF" />
-  <img alt="React" src="https://img.shields.io/badge/React-101820?style=flat-square&logo=react&logoColor=31C4B3" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101820?style=flat-square&logo=nodedotjs&logoColor=7ED957" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-101820?style=flat-square&logo=git&logoColor=FF6F61" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-101820?style=flat-square&logo=github&logoColor=FFFFFF" />
+<p align="center">
+  <strong>Github State</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Skills</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Top Language</strong>
 </p>
-
-```txt
-ship.log
-status      : building useful things
-orbit       : web apps, automation, developer tools
-priority    : clean interfaces, steady iteration, practical outcomes
-crew rule   : original space vibes only
-```
-
-## GitHub Signals
 
 <p align="center">
   <img
     alt="Md Asif GitHub stats"
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mdasifinit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
+  />
+  <img
+    alt="My skills"
+    height="165"
+    src="https://skillicons.dev/icons?i=react,nodejs,js,ts,python,powershell,cs,docker,github,azure&theme=dark&perline=5"
   />
   <img
     alt="Top languages"
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifinit&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
   />
 </p>
 
-## Featured Transmissions
+## Featured Projects
 
-| Transmission | Signal | Stack |
+| Project | Signal | Stack |
 | --- | --- | --- |
-| `portfolio-system` | Personal profile and portfolio experiments. | HTML, CSS, JS |
-| `workflow-toolkit` | Small automations for repeated developer work. | Node.js, APIs |
-| `engineering-notes` | Notes, prototypes, and learning logs. | Docs, systems, UX |
+| [AICP - AI CoPackager](https://github.com/MdAsifInIT/Packaging-Workflow-Automation) | AI-assisted Windows app packaging pipeline with PSADT generation, PR creation, and VM verification. | Jenkins, n8n, PowerShell, OpenAI API |
+| [Portfolio Website](https://github.com/MdAsifInIT/portfolio) | Personal portfolio to showcase projects, skills, and open source work. | React, Tailwind CSS |
+| [Inventory Solutions 4 Business](https://github.com/MdAsifInIT/Inventory-Solutions-4-Business-3) | Full-stack inventory management with web, mobile, and server layers. | React, React Native, Node.js |
+| [NotebookLM for Windows](https://github.com/MdAsifInIT/NotebookLMWrapper) | Native-like desktop wrapper for NotebookLM with dark mode and focused UX. | C#, .NET 8, WebView2 |
 
-## Connect
+## Open Source Contributions
 
 <p>
-  <a href="https://github.com/mdasifinit">
+  <a href="https://github.com/MdAsifInIT/The-Ultimate-HTML-Course">
+    <img alt="HTML Course" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=The-Ultimate-HTML-Course&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/MdAsifInIT/The-Ultimate-C-Programming-Course">
+    <img alt="C Programming Course" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=The-Ultimate-C-Programming-Course&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF" />
+  </a>
+</p>
+
+## About Me
+
+```txt
+location    : Bengaluru, IN
+role        : AI Automation Engineer
+orbit       : AI automation, enterprise packaging, web apps, developer tools
+focus       : clean code, scalable workflows, practical outcomes
+education   : BSc Design & Computing, BITS Pilani
+```
+
+## Certifications
+
+- Microsoft Certified: Azure Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Azure AI Engineer Associate
+
+## Pinned
+
+<p>
+  <a href="https://github.com/MdAsifInIT/Packaging-Workflow-Automation">
+    <img alt="Packaging Workflow Automation" src="https://img.shields.io/badge/Packaging%20Workflow%20Automation-101820?style=for-the-badge&logo=powershell&logoColor=31C4B3" />
+  </a>
+  <a href="https://github.com/MdAsifInIT/portfolio">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-101820?style=for-the-badge&logo=react&logoColor=58A6FF" />
+  </a>
+  <a href="https://github.com/MdAsifInIT/NotebookLMWrapper">
+    <img alt="NotebookLM Wrapper" src="https://img.shields.io/badge/NotebookLM%20Wrapper-101820?style=for-the-badge&logo=dotnet&logoColor=FF6F61" />
+  </a>
+</p>
+
+## Get In Touch
+
+<p>
+  <a href="https://github.com/MdAsifInIT">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
-  <a href="https://github.com/mdasifinit/mdasifinit/issues">
+  <a href="https://linkedin.com/in/mdasifinit">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=31C4B3" />
+  </a>
+  <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues">
     <img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20Conversation-101820?style=for-the-badge&logo=githubdiscussions&logoColor=31C4B3" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Profile README for <code>mdasifinit/mdasifinit</code>. Built like a calm mission control panel with a tiny space-crew wink.</sub>
+  <sub>Profile README for <code>MdAsifInIT/MdAsifInIT</code>. Built like a calm mission control panel with a tiny space-crew wink.</sub>
 </p>
