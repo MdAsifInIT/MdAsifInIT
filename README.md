@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Md Asif</h1>
-<h2 align="center">AI Automation Engineer</h2>
 
 <p align="center">
   <strong>I automate workflows and build fast, scalable applications for businesses.</strong><br />
