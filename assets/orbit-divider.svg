@@ -1,5 +1,5 @@
 <svg width="1200" height="90" viewBox="0 0 1200 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Space mission divider</title>
+  <title id="title">Animated space orbit divider</title>
   <style>
     .trace { animation: move 12s linear infinite; }
     .blink { animation: blink 2.2s ease-in-out infinite; }
@@ -10,7 +10,8 @@
     @keyframes probe { 0%, 100% { transform: translateX(-10px); } 50% { transform: translateX(20px); } }
   </style>
   <rect width="1200" height="90" rx="24" fill="#101820"/>
-  <path class="trace" d="M30 24C155 7 269 43 391 24C542 2 661 42 808 24C944 8 1046 22 1170 14" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9"/>
+  <path class="trace" d="M30 27C155 9 269 45 391 26C542 4 661 44 808 26C944 10 1046 24 1170 16" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9"/>
+  <path d="M84 62C224 44 359 68 490 57C634 45 760 70 900 58C1012 48 1098 56 1168 47" stroke="#F6C85F" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 20" opacity=".42"/>
   <circle class="blink" cx="120" cy="28" r="4" fill="#FFFFFF" opacity=".75"/>
   <circle class="blink" cx="295" cy="63" r="3" fill="#F6C85F"/>
   <circle class="blink" cx="502" cy="25" r="3.5" fill="#FFFFFF" opacity=".7"/>
@@ -21,5 +22,4 @@
     <circle cx="72" cy="48" r="8" fill="#31C4B3"/>
     <path d="M72 48H34" stroke="#31C4B3" stroke-width="3" stroke-linecap="round" opacity=".7"/>
   </g>
-  <text x="600" y="55" text-anchor="middle" fill="#D9E7FF" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">SYSTEMS ONLINE - COMMIT ORBIT ONLINE</text>
 </svg>

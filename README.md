@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## 你好 / こんにちは / Hi there
@@ -34,7 +34,7 @@
 - Keeping this profile in orbit with animated space visuals and repo-backed sections.
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## Command Center
@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## Pinned Missions
@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## Repositories In Orbit
@@ -114,7 +114,7 @@
 | [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper experiment for a focused NotebookLM flow. | C# |
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## Captain's Log
@@ -134,7 +134,7 @@ education   : BSc Design & Computing, BITS Pilani
 - Microsoft Certified: Azure AI Engineer Associate
 
 <p align="center">
-  <img src="assets/mission-divider.svg" alt="" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" width="100%" />
 </p>
 
 ## Transmission Channel
