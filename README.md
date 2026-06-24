@@ -91,6 +91,18 @@
 | [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript project in progress. | TypeScript |
 | [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper experiment for a focused NotebookLM experience. | C# |
 
+<details>
+  <summary><strong>Private Project Deck</strong></summary>
+
+| Project | Description | Visibility |
+| --- | --- | --- |
+| AICP | Private AI co-packaging and automation workspace. | Private/Internal |
+| AIML | Private AI/ML experimentation and model workflow lab. | Private/Internal |
+| Self Evolving Transpiler | Private adaptive transpiler research and code transformation system. | Private/Internal |
+| Work Graph Foundry | Work Graph Foundry product strategy and autonomous Codex implementation system. | Private/Internal |
+
+</details>
+
 ## About Me
 
 ```txt
