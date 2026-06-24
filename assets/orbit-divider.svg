@@ -8,6 +8,11 @@
     @keyframes move { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -220; } }
     @keyframes blink { 0%, 100% { opacity: .2; } 50% { opacity: 1; } }
     @keyframes probe { 0%, 100% { transform: translateX(-10px); } 50% { transform: translateX(20px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .trace, .blink, .probe {
+        animation: none !important;
+      }
+    }
   </style>
   <rect width="1200" height="90" rx="24" fill="#101820"/>
   <path class="trace" d="M30 27C155 9 269 45 391 26C542 4 661 44 808 26C944 10 1046 24 1170 16" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9"/>

@@ -1,6 +1,6 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Md Asif space profile banner</title>
-  <desc id="desc">Animated starfield banner with an original space crew theme, a spaceship window, and mission control text.</desc>
+  <desc id="desc">Animated starfield banner with a mission-control display, orbit traces, and a small spacecraft accent.</desc>
   <style>
     .star { animation: twinkle 2.8s ease-in-out infinite; transform-origin: center; }
     .star:nth-of-type(2n) { animation-delay: .7s; }
@@ -26,6 +26,11 @@
     @keyframes meterA { 0%, 100% { width: 146px; } 50% { width: 96px; } }
     @keyframes meterB { 0%, 100% { width: 104px; } 50% { width: 142px; } }
     @keyframes meterC { 0%, 100% { width: 128px; } 50% { width: 86px; } }
+    @media (prefers-reduced-motion: reduce) {
+      .star, .float, .float-small, .pulse, .dash, .scan, .orbit, .comet, .meter-a, .meter-b, .meter-c {
+        animation: none !important;
+      }
+    }
   </style>
   <defs>
     <linearGradient id="space" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
