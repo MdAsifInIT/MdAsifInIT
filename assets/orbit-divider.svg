@@ -8,22 +8,32 @@
     @keyframes move { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -220; } }
     @keyframes blink { 0%, 100% { opacity: .2; } 50% { opacity: 1; } }
     @keyframes probe { 0%, 100% { transform: translateX(-10px); } 50% { transform: translateX(20px); } }
-    @media (prefers-reduced-motion: reduce) {
-      .trace, .blink, .probe {
-        animation: none !important;
-      }
-    }
   </style>
   <rect width="1200" height="90" rx="24" fill="#101820"/>
-  <path class="trace" d="M30 27C155 9 269 45 391 26C542 4 661 44 808 26C944 10 1046 24 1170 16" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9"/>
+  <path class="trace" d="M30 27C155 9 269 45 391 26C542 4 661 44 808 26C944 10 1046 24 1170 16" stroke="#31C4B3" stroke-width="4" stroke-linecap="round" stroke-dasharray="14 24" opacity=".9">
+    <animate attributeName="stroke-dashoffset" values="0;-220" dur="12s" repeatCount="indefinite"/>
+  </path>
   <path d="M84 62C224 44 359 68 490 57C634 45 760 70 900 58C1012 48 1098 56 1168 47" stroke="#F6C85F" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 20" opacity=".42"/>
-  <circle class="blink" cx="120" cy="28" r="4" fill="#FFFFFF" opacity=".75"/>
-  <circle class="blink" cx="295" cy="63" r="3" fill="#F6C85F"/>
-  <circle class="blink" cx="502" cy="25" r="3.5" fill="#FFFFFF" opacity=".7"/>
-  <circle class="blink" cx="698" cy="66" r="3" fill="#FF6F61"/>
-  <circle class="blink" cx="915" cy="28" r="4" fill="#FFFFFF" opacity=".7"/>
-  <circle class="blink" cx="1084" cy="58" r="3" fill="#F6C85F"/>
+  <circle class="blink" cx="120" cy="28" r="4" fill="#FFFFFF" opacity=".75">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="blink" cx="295" cy="63" r="3" fill="#F6C85F">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin=".8s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="blink" cx="502" cy="25" r="3.5" fill="#FFFFFF" opacity=".7">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.1s" begin=".3s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="blink" cx="698" cy="66" r="3" fill="#FF6F61">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.6s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="blink" cx="915" cy="28" r="4" fill="#FFFFFF" opacity=".7">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.3s" begin=".5s" repeatCount="indefinite"/>
+  </circle>
+  <circle class="blink" cx="1084" cy="58" r="3" fill="#F6C85F">
+    <animate attributeName="opacity" values=".2;1;.2" dur="2.7s" begin="1.4s" repeatCount="indefinite"/>
+  </circle>
   <g class="probe">
+    <animateTransform attributeName="transform" type="translate" values="-10 0;20 0;-10 0" dur="6s" repeatCount="indefinite"/>
     <circle cx="72" cy="48" r="8" fill="#31C4B3"/>
     <path d="M72 48H34" stroke="#31C4B3" stroke-width="3" stroke-linecap="round" opacity=".7"/>
   </g>
