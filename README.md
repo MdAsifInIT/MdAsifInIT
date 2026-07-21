@@ -1,120 +1,111 @@
 <p align="center">
-  <img src="assets/space-banner.svg" alt="Md Asif animated space-themed GitHub profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/MdAsifInIT/MdAsifInIT/main/assets/space-banner.svg" alt="Md Asif animated space-themed GitHub profile banner" width="100%" />
 </p>
 
+<h1 align="center">Md Asif</h1>
+
 <p align="center">
-  <strong>AI automation engineer building systems that stay out of the way.</strong><br />
-  Fast workflows, practical integrations, and clean interfaces for real work.
+  <strong>AI Automation Engineer</strong> building production-grade workflows, developer tooling, and sync pipelines.
 </p>
 
 <p align="center">
   <a href="https://mdasifinit.github.io/portfolio/">
-    <img alt="Open portfolio" src="https://img.shields.io/badge/Portfolio-31C4B3?style=for-the-badge&labelColor=101820" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0D1327?style=for-the-badge&logo=react&logoColor=31C4B3" />
   </a>
   <a href="https://github.com/MdAsifInIT?tab=repositories">
-    <img alt="Browse repositories" src="https://img.shields.io/badge/Repositories-FF6F61?style=for-the-badge&labelColor=101820" />
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-0D1327?style=for-the-badge&logo=github&logoColor=FF6F61" />
+  </a>
+  <a href="https://linkedin.com/in/mdasifinit">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D1327?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues/new">
-    <img alt="Start a conversation" src="https://img.shields.io/badge/Contact-F6C85F?style=for-the-badge&labelColor=101820" />
+    <img alt="Contact" src="https://img.shields.io/badge/Contact-0D1327?style=for-the-badge&logo=mail.ru&logoColor=F6C85F" />
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/orbit-divider.svg" alt="" aria-hidden="true" width="100%" />
+  <img src="https://raw.githubusercontent.com/MdAsifInIT/MdAsifInIT/main/assets/orbit-divider.svg" alt="" aria-hidden="true" width="100%" />
 </p>
 
-## What I Build
+## Overview
 
-- AI-assisted workflow automation for repetitive business and developer tasks.
-- Fast, responsive applications with clear information hierarchy.
-- Python, PowerShell, C#, TypeScript, React, cloud, and tooling.
-- Practical systems instead of decorative demos.
+I engineer backend automations, multi-agent systems, and cloud infrastructure integration. My focus is delivering reliable, automated workflows that eliminate manual operational overhead.
 
-## Command Center
+- **Core Stack**: Python, PowerShell, C#, TypeScript, React, Docker, Azure.
+- **Specialization**: AI workflow automation, document sync pipelines, context switchers, and Windows tooling.
+- **Location**: Bengaluru, India.
 
-### GitHub State
+---
 
-<p align="center">
-  <img
-    alt="Md Asif GitHub stats"
-    width="470"
-    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF"
-  />
-</p>
-
-### Skill Loadout
+## Featured Repositories
 
 <p align="center">
-  <img
-    alt="My skills"
-    width="330"
-    src="https://skillicons.dev/icons?i=python,powershell,cs,ts,js,react,nodejs,docker,github,azure&theme=dark&perline=5"
-  />
-</p>
-
-### Language Radar
-
-<p align="center">
-  <img
-    alt="Top languages"
-    width="420"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF"
-  />
-</p>
-
-## Pinned
-
-<p align="center">
-  <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
+  <a href="https://github.com/MdAsifInIT/OmniBranch">
+    <img alt="OmniBranch Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
-  <a href="https://github.com/MdAsifInIT/sanity-gravity">
-    <img alt="sanity-gravity" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=sanity-gravity&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
+  <a href="https://github.com/MdAsifInIT/Samruna">
+    <img alt="Samruna Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
-  <a href="https://github.com/MdAsifInIT/EZ-PS-Automations">
-    <img alt="EZ-PS-Automations" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=EZ-PS-Automations&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" />
-  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/MdAsifInIT/pokeswitch">
-    <img alt="pokeswitch" width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" />
+    <img alt="Pokeswitch Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+  </a>
+  <a href="https://github.com/MdAsifInIT/NotionLM">
+    <img alt="NotionLM Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
 </p>
 
-## Repositories In Orbit
-
-<ul>
-  <li><a href="https://github.com/MdAsifInIT/NotionLM">NotionLM</a> - Notion to Google Docs pipeline with sync state, retry handling, and document upsert logic. <strong>Python</strong></li>
-  <li><a href="https://github.com/MdAsifInIT/sanity-gravity">sanity-gravity</a> - Guardrails for AI coding agents and developer workflows. <strong>Python</strong></li>
-  <li><a href="https://github.com/MdAsifInIT/EZ-PS-Automations">EZ-PS-Automations</a> - PowerShell utilities for repeatable Windows and developer tasks. <strong>PowerShell</strong></li>
-  <li><a href="https://github.com/MdAsifInIT/pokeswitch">pokeswitch</a> - Active C# project in the public repo list. <strong>C#</strong></li>
-  <li><a href="https://github.com/MdAsifInIT/bglr-premium-listings">bglr-premium-listings</a> - TypeScript work in progress. <strong>TypeScript</strong></li>
-  <li><a href="https://github.com/MdAsifInIT/NotebookLMWrapper">NotebookLMWrapper</a> - Desktop wrapper experiment for a focused NotebookLM workflow. <strong>C#</strong></li>
-</ul>
+| Repository | Tech Stack | Focus / Highlights |
+| :--- | :--- | :--- |
+| [**OmniBranch**](https://github.com/MdAsifInIT/OmniBranch) | `Python` `TypeScript` | Multi-context branch manager and automated Git workspace switcher. |
+| [**Samruna**](https://github.com/MdAsifInIT/Samruna) | `Python` `Docker` | High-performance automation pipeline engine for event-driven workflows. |
+| [**Pokeswitch**](https://github.com/MdAsifInIT/pokeswitch) | `C#` `.NET` | Desktop context switcher and task automation utility. |
+| [**NotionLM**](https://github.com/MdAsifInIT/NotionLM) | `Python` `REST API` | Automated Notion to Google Docs sync pipeline with upsert logic & retries. |
 
 <details>
-  <summary><strong>Private Project Deck</strong></summary>
+  <summary><strong>Additional & Private Projects</strong></summary>
   <ul>
+    <li><a href="https://github.com/MdAsifInIT/sanity-gravity">sanity-gravity</a> - Guardrails for AI coding agents and developer workflows. <strong>Python</strong></li>
+    <li><a href="https://github.com/MdAsifInIT/EZ-PS-Automations">EZ-PS-Automations</a> - PowerShell utilities for repeatable Windows tasks. <strong>PowerShell</strong></li>
+    <li><a href="https://github.com/MdAsifInIT/bglr-premium-listings">bglr-premium-listings</a> - Real estate listings application. <strong>TypeScript</strong></li>
+    <li><a href="https://github.com/MdAsifInIT/NotebookLMWrapper">NotebookLMWrapper</a> - Focused desktop workflow wrapper for NotebookLM. <strong>C#</strong></li>
     <li>AICP - Private AI co-packaging and automation workspace. <strong>Private/Internal</strong></li>
-    <li>AIML - Private AI/ML experimentation and model workflow lab. <strong>Private/Internal</strong></li>
-    <li>Self Evolving Transpiler - Private adaptive transpiler research and code transformation system. <strong>Private/Internal</strong></li>
-    <li>Work Graph Foundry - Work Graph Foundry product strategy and autonomous Codex implementation system. <strong>Private/Internal</strong></li>
+    <li>AIML - Private AI/ML experimentation lab. <strong>Private/Internal</strong></li>
+    <li>Self Evolving Transpiler - Adaptive transpiler research system. <strong>Private/Internal</strong></li>
+    <li>Work Graph Foundry - Work Graph Foundry strategy & autonomous Codex system. <strong>Private/Internal</strong></li>
   </ul>
-
 </details>
 
-## About Me
+---
 
-- Location: Bengaluru, IN
-- Role: AI Automation Engineer
-- Focus: AI automation, sync pipelines, enterprise scripts, and developer tools
-- Education: BSc Design & Computing, BITS Pilani
+## Tech Stack & Tooling
+
+<p align="center">
+  <img alt="Skills Loadout" src="https://skillicons.dev/icons?i=python,powershell,cs,ts,js,react,nodejs,docker,github,azure&theme=dark&perline=5" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF" width="48%" />
+</p>
+
+---
 
 ## Certifications
 
-- Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Azure AI Engineer Associate
+- **Microsoft Certified**: Azure AI Engineer Associate
+- **Microsoft Certified**: Azure AI Fundamentals
+- **Microsoft Certified**: Azure Fundamentals
 
-## Get In Touch
+---
+
+## Contact & Connect
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT">
@@ -124,10 +115,10 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=31C4B3" />
   </a>
   <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues/new">
-    <img alt="Start a conversation" src="https://img.shields.io/badge/Start%20a%20Conversation-101820?style=for-the-badge&logo=github&logoColor=31C4B3" />
+    <img alt="Start a Conversation" src="https://img.shields.io/badge/Start%20a%20Conversation-101820?style=for-the-badge&logo=github&logoColor=31C4B3" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Profile README for <code>MdAsifInIT/MdAsifInIT</code>. Original space visuals, repo-backed content, and no borrowed game assets.</sub>
+  <sub>Profile README for <code>MdAsifInIT/MdAsifInIT</code>.</sub>
 </p>
