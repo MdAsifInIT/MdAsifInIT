@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdAsifInIT/MdAsifInIT/main/assets/space-banner.svg" alt="Md Asif animated space-themed GitHub profile banner" width="100%" />
+  <img src="assets/space-banner.svg" alt="Md Asif animated space-themed GitHub profile banner" width="100%" />
 </p>
 
 <h1 align="center">Md Asif</h1>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdAsifInIT/MdAsifInIT/main/assets/orbit-divider.svg" alt="" aria-hidden="true" width="100%" />
+  <img src="assets/orbit-divider.svg" alt="" aria-hidden="true" width="100%" />
 </p>
 
 ## Overview
@@ -41,19 +41,19 @@ I engineer backend automations, multi-agent systems, and cloud infrastructure in
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT/OmniBranch">
-    <img alt="OmniBranch Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+    <img alt="OmniBranch Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
   <a href="https://github.com/MdAsifInIT/Samruna">
-    <img alt="Samruna Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+    <img alt="Samruna Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT/pokeswitch">
-    <img alt="Pokeswitch Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+    <img alt="Pokeswitch Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
   <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM Card" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+    <img alt="NotionLM Card" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
   </a>
 </p>
 
@@ -91,8 +91,8 @@ I engineer backend automations, multi-agent systems, and cloud infrastructure in
 ## GitHub Analytics
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF" width="48%" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101820&title_color=31C4B3&icon_color=F6C85F&text_color=FFFFFF" width="48%" />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=101820&title_color=FF6F61&text_color=FFFFFF" width="48%" />
 </p>
 
 ---
