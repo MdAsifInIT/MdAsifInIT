@@ -6,19 +6,16 @@
 
 <p align="center">
   <a href="https://mdasifinit.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2300FFB2?style=flat-square&labelColor=060B18&color=060B18&logoColor=00FFB2" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%233B82F6?style=for-the-badge&labelColor=070C19&color=070C19&logoColor=3B82F6" />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/mdasifinit">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&labelColor=060B18&color=060B18&logo=linkedin&logoColor=00FFB2" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%233B82F6?style=for-the-badge&labelColor=070C19&color=070C19&logo=linkedin&logoColor=3B82F6" />
   </a>
-  &nbsp;
   <a href="https://github.com/MdAsifInIT?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-060B18?style=flat-square&labelColor=060B18&color=060B18&logo=github&logoColor=00FFB2" />
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-070C19?style=for-the-badge&labelColor=070C19&color=070C19&logo=github&logoColor=3B82F6" />
   </a>
-  &nbsp;
   <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues/new">
-    <img alt="Contact" src="https://img.shields.io/badge/Contact-060B18?style=flat-square&labelColor=060B18&color=060B18&logo=github&logoColor=00FFB2" />
+    <img alt="Contact" src="https://img.shields.io/badge/Contact-070C19?style=for-the-badge&labelColor=070C19&color=070C19&logo=github&logoColor=3B82F6" />
   </a>
 </p>
 
@@ -32,12 +29,28 @@
 
 I make systems that stay **out of the way** — fast, practical, and built to be handed off.
 
-- **AI workflow automation** — pipelines that remove repetitive toil from developer and business ops
-- **Sync & integration layers** — document pipelines, retry logic, upsert flows, cross-tool state management
-- **Enterprise scripting** — PowerShell, Python, and C# utilities designed for real production environments
-- **Tooled apps** — TypeScript / React interfaces with clear information hierarchy and no decorative clutter
-
-> Stack: `Python` · `PowerShell` · `C#` · `TypeScript` · `React` · `Node` · `Docker` · `Azure` · `GitHub Actions`
+<table>
+  <tr>
+    <td width="50%">
+      <strong>AI workflow automation</strong><br/>
+      Pipelines that remove repetitive toil from developer and business ops.
+    </td>
+    <td width="50%">
+      <strong>Sync & integration layers</strong><br/>
+      Document pipelines, retry logic, upsert flows, cross-tool state management.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Enterprise scripting</strong><br/>
+      PowerShell, Python, and C# utilities designed for real production environments.
+    </td>
+    <td>
+      <strong>Tooled apps</strong><br/>
+      TypeScript / React interfaces with clear information hierarchy and no decorative clutter.
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -53,13 +66,12 @@ I make systems that stay **out of the way** — fast, practical, and built to be
   <img
     alt="Md Asif GitHub stats"
     width="460"
-    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF&ring_color=00FFB2"
+    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&ring_color=3B82F6&border_color=1E293B"
   />
-  &nbsp;&nbsp;
   <img
     alt="Top languages"
     width="320"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&text_color=8CA0BF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=transparent&bg_color=070C19&title_color=3B82F6&text_color=64748B&border_color=1E293B"
   />
 </p>
 
@@ -69,20 +81,18 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT/OmniBranch">
-    <img alt="OmniBranch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+    <img alt="OmniBranch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
-  &nbsp;
   <a href="https://github.com/MdAsifInIT/Samruna">
-    <img alt="Samruna" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+    <img alt="Samruna" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+    <img alt="NotionLM" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
-  &nbsp;
   <a href="https://github.com/MdAsifInIT/pokeswitch">
-    <img alt="pokeswitch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+    <img alt="pokeswitch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
 </p>
 
@@ -96,29 +106,28 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 ## `>_` Repository Index
 
-| Repo | What it does | Lang |
-|---|---|---|
-| [OmniBranch](https://github.com/MdAsifInIT/OmniBranch) | Multi-context branch manager and automated Git workspace switcher | `Python` `TypeScript` |
-| [Samruna](https://github.com/MdAsifInIT/Samruna) | High-performance automation pipeline engine for event-driven workflows | `Python` `Docker` |
-| [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion → Google Docs sync pipeline with retry logic and document upsert | `Python` |
-| [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Guardrails and workflow structure for AI coding agents | `Python` |
-| [EZ-PS-Automations](https://github.com/MdAsifInIT/EZ-PS-Automations) | PowerShell utility library for repeatable Windows and dev tasks | `PowerShell` |
-| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | Desktop context switcher and task automation utility | `C#` |
-| [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript work in progress | `TypeScript` |
-| [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper for a focused NotebookLM workflow | `C#` |
+| Repo | What it does | Lang | Focus |
+|---|---|---|---|
+| [OmniBranch](https://github.com/MdAsifInIT/OmniBranch) | Multi-context branch manager and automated Git workspace switcher | `Python` `TypeScript` | DevTools |
+| [Samruna](https://github.com/MdAsifInIT/Samruna) | High-performance automation pipeline engine for event-driven workflows | `Python` `Docker` | Pipeline |
+| [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion → Google Docs sync pipeline with retry logic and document upsert | `Python` | Sync |
+| [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Guardrails and workflow structure for AI coding agents | `Python` | AI Tools |
+| [EZ-PS-Automations](https://github.com/MdAsifInIT/EZ-PS-Automations) | PowerShell utility library for repeatable Windows and dev tasks | `PowerShell` | Scripts |
+| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | Desktop context switcher and task automation utility | `C#` | Desktop |
+| [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript work in progress | `TypeScript` | Web |
+| [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper for a focused NotebookLM workflow | `C#` | AI Tools |
 
-<details>
-  <summary><strong>Private Project Deck</strong></summary>
-  <br/>
+<br/>
 
-  | Project | Description |
-  |---|---|
-  | AICP | AI co-packaging and automation workspace |
-  | AIML | AI/ML experimentation and model workflow lab |
-  | Self Evolving Transpiler | Adaptive transpiler research and code transformation system |
-  | Work Graph Foundry | Work Graph Foundry product strategy and autonomous Codex implementation |
-
-</details>
+> [!NOTE]
+> **Private Project Deck**
+> 
+> | Project | Description |
+> |---|---|
+> | AICP | AI co-packaging and automation workspace |
+> | AIML | AI/ML experimentation and model workflow lab |
+> | Self Evolving Transpiler | Adaptive transpiler research and code transformation system |
+> | Work Graph Foundry | Work Graph Foundry product strategy and autonomous Codex implementation |
 
 <br/>
 
@@ -148,10 +157,3 @@ certifications:
 
 <br/>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" aria-hidden="true" width="40%" />
-</p>
-
-<p align="center">
-  <sub><code>MdAsifInIT/MdAsifInIT</code> — profile README. Handbuilt SVG assets, no borrowed game assets.</sub>
-</p>
