@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://mdasifinit.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=githubpages&logoColor=3B82F6" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%230B1120?style=for-the-badge&logo=gravatar&logoColor=%233B82F6" />
   </a>
   <a href="https://linkedin.com/in/mdasifinit">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=3B82F6" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230B1120?style=for-the-badge&logo=linkedin&logoColor=%233B82F6" />
   </a>
   <a href="https://github.com/MdAsifInIT?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-0B1120?style=for-the-badge&logo=github&logoColor=3B82F6" />
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-%230B1120?style=for-the-badge&logo=github&logoColor=%233B82F6" />
   </a>
   <a href="https://github.com/MdAsifInIT/MdAsifInIT/issues/new">
-    <img alt="Contact" src="https://img.shields.io/badge/Contact-0B1120?style=for-the-badge&logo=gmail&logoColor=3B82F6" />
+    <img alt="Contact" src="https://img.shields.io/badge/Contact-%230B1120?style=for-the-badge&logo=gmail&logoColor=%233B82F6" />
   </a>
 </p>
 
