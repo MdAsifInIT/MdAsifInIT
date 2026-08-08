@@ -1,3 +1,5 @@
+<h3 align="center">AI System Engineer</h3>
+
 <p align="center">
   <img src="assets/banner.svg" alt="Md Asif — AI Automation Engineer profile banner" width="100%" />
 </p>
@@ -6,7 +8,7 @@
 
 <p align="center">
   <a href="https://mdasifinit.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%233B82F6?style=for-the-badge&labelColor=070C19&color=070C19&logoColor=3B82F6" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%233B82F6?style=for-the-badge&labelColor=070C19&color=070C19&logo=googlechrome&logoColor=3B82F6" />
   </a>
   <a href="https://linkedin.com/in/mdasifinit">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%233B82F6?style=for-the-badge&labelColor=070C19&color=070C19&logo=linkedin&logoColor=3B82F6" />
