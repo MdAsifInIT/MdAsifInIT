@@ -68,17 +68,17 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 ## `>_` Pinned Work
 
 <p align="center">
-  <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+  <a href="https://github.com/MdAsifInIT/OmniBranch">
+    <img alt="OmniBranch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
   </a>
   &nbsp;
-  <a href="https://github.com/MdAsifInIT/sanity-gravity">
-    <img alt="sanity-gravity" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=sanity-gravity&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+  <a href="https://github.com/MdAsifInIT/Samruna">
+    <img alt="Samruna" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/MdAsifInIT/EZ-PS-Automations">
-    <img alt="EZ-PS-Automations" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=EZ-PS-Automations&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
+  <a href="https://github.com/MdAsifInIT/NotionLM">
+    <img alt="NotionLM" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=tokyonight&hide_border=true&bg_color=060B18&title_color=00FFB2&icon_color=00FFB2&text_color=8CA0BF" />
   </a>
   &nbsp;
   <a href="https://github.com/MdAsifInIT/pokeswitch">
@@ -98,10 +98,12 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 | Repo | What it does | Lang |
 |---|---|---|
+| [OmniBranch](https://github.com/MdAsifInIT/OmniBranch) | Multi-context branch manager and automated Git workspace switcher | `Python` `TypeScript` |
+| [Samruna](https://github.com/MdAsifInIT/Samruna) | High-performance automation pipeline engine for event-driven workflows | `Python` `Docker` |
 | [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion → Google Docs sync pipeline with retry logic and document upsert | `Python` |
 | [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Guardrails and workflow structure for AI coding agents | `Python` |
 | [EZ-PS-Automations](https://github.com/MdAsifInIT/EZ-PS-Automations) | PowerShell utility library for repeatable Windows and dev tasks | `PowerShell` |
-| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | Active C# project | `C#` |
+| [pokeswitch](https://github.com/MdAsifInIT/pokeswitch) | Desktop context switcher and task automation utility | `C#` |
 | [bglr-premium-listings](https://github.com/MdAsifInIT/bglr-premium-listings) | TypeScript work in progress | `TypeScript` |
 | [NotebookLMWrapper](https://github.com/MdAsifInIT/NotebookLMWrapper) | Desktop wrapper for a focused NotebookLM workflow | `C#` |
 
