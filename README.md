@@ -67,13 +67,17 @@ I make systems that stay **out of the way** — fast, practical, and built to be
   <img
     alt="Md Asif GitHub stats"
     width="460"
-    src="https://github-readme-stats.vercel.app/api?username=MdAsifInIT&show_icons=true&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&ring_color=3B82F6&border_color=1E293B"
+    src="https://github-readme-stats.shion.dev/api?username=MdAsifInIT&show_icons=true&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&ring_color=3B82F6&border_color=1E293B"
   />
   <img
     alt="Top languages"
     width="320"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAsifInIT&layout=compact&theme=transparent&bg_color=070C19&title_color=3B82F6&text_color=64748B&border_color=1E293B"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=MdAsifInIT&layout=compact&theme=transparent&bg_color=070C19&title_color=3B82F6&text_color=64748B&border_color=1E293B"
   />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Git History" width="800" />
 </p>
 
 <br/>
@@ -82,18 +86,18 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 <p align="center">
   <a href="https://github.com/MdAsifInIT/OmniBranch">
-    <img alt="OmniBranch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
+    <img alt="OmniBranch" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
   <a href="https://github.com/MdAsifInIT/Samruna">
-    <img alt="Samruna" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=Samruna&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
+    <img alt="Samruna" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=Samruna&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/MdAsifInIT/NotionLM">
-    <img alt="NotionLM" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
+    <img alt="NotionLM" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=NotionLM&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
   <a href="https://github.com/MdAsifInIT/pokeswitch">
-    <img alt="pokeswitch" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
+    <img alt="pokeswitch" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=pokeswitch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
 </p>
 
