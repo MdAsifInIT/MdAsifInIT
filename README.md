@@ -85,8 +85,8 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 ## `>_` Pinned Work
 
 <p align="center">
-  <a href="https://github.com/MdAsifInIT/OmniBranch">
-    <img alt="OmniBranch" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=OmniBranch&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
+  <a href="https://github.com/MdAsifInIT/open-project-manager">
+    <img alt="open-project-manager" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=open-project-manager&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
   </a>
   <a href="https://github.com/MdAsifInIT/Samruna">
     <img alt="Samruna" width="400" src="https://github-readme-stats.shion.dev/api/pin/?username=MdAsifInIT&repo=Samruna&theme=transparent&bg_color=070C19&title_color=3B82F6&icon_color=3B82F6&text_color=64748B&border_color=1E293B" />
@@ -113,7 +113,7 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 | Repo | What it does | Lang | Focus |
 |---|---|---|---|
-| [OmniBranch](https://github.com/MdAsifInIT/OmniBranch) | Multi-context branch manager and automated Git workspace switcher | `Python` `TypeScript` | DevTools |
+| [OPM (Open Project Manager)](https://github.com/MdAsifInIT/open-project-manager) | An open source alternative for modern project management | `TypeScript` `Next.js` | Product |
 | [Samruna](https://github.com/MdAsifInIT/Samruna) | High-performance automation pipeline engine for event-driven workflows | `Python` `Docker` | Pipeline |
 | [NotionLM](https://github.com/MdAsifInIT/NotionLM) | Notion → Google Docs sync pipeline with retry logic and document upsert | `Python` | Sync |
 | [sanity-gravity](https://github.com/MdAsifInIT/sanity-gravity) | Guardrails and workflow structure for AI coding agents | `Python` | AI Tools |
@@ -146,7 +146,7 @@ I make systems that stay **out of the way** — fast, practical, and built to be
 
 ```yaml
 name:       Md Asif
-role:       AI Automation Engineer
+role:       AI Developer
 location:   Bengaluru, IN
 education:  BSc Design & Computing — BITS Pilani
 focus:

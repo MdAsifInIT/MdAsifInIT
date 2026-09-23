@@ -97,7 +97,7 @@
       <animate attributeName="x" values="540;1130;540" dur="3.8s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;.42;.18;0" keyTimes="0;.18;.7;1" dur="3.8s" repeatCount="indefinite"/>
     </rect>
-    <text x="558" y="139" fill="#31C4B3" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700">AI AUTOMATION ENGINEER</text>
+    <text x="558" y="139" fill="#31C4B3" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="700">AI DEVELOPER</text>
     <text x="558" y="198" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">Md Asif</text>
     <text x="560" y="243" fill="#D9E7FF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">workflow automation + scalable apps</text>
     <rect class="meter-a" x="868" y="114" width="146" height="18" rx="9" fill="#FF6F61">
